@@ -42,62 +42,60 @@
         </transform>
       </group>
     </transform>
-    <transform rotation='0 1 1 2.0'>
+    <transform rotation='0 1 1 2.0' translation="0,2.5,0">
       <group DEF="signpost">
-        <transform translation="0,2.5,0">
-          <shape DEF="post">
-            <appearance>
-              <material diffuseColor='0.5 0.5 0.5'/>
-            </appearance>
-            <box size="0.1 1.0 0.1"/>
-          </shape>
-          <transform translation="0.2,0.37,0">
-            <group DEF="Arrow">
+        <shape DEF="post">
+          <appearance>
+            <material diffuseColor='0.5 0.5 0.5'/>
+          </appearance>
+          <box size="0.1 1.0 0.1"/>
+        </shape>
+        <transform translation="0.2,0.37,0">
+          <group DEF="Arrow">
+            <shape>
+              <appearance>
+                <material diffuseColor='1 0.5 0.5'/>
+              </appearance>
+              <box size="0.45 0.1 0.025"></box>
+            </shape>
+            <transform translation="0.225,-0.05,0.0125">                    
               <shape>
                 <appearance>
                   <material diffuseColor='1 0.5 0.5'/>
                 </appearance>
-                <box size="0.45 0.1 0.025"></box>
+                <indexedFaceSet solid="false" coordIndex='0 1 2'>
+                  <coordinate point='0 0 0 0 0.1 0 0.075 0.05 0'/>
+                </indexedFaceSet>
               </shape>
-              <transform translation="0.225,-0.05,0.0125">                    
-                <shape>
-                  <appearance>
-                    <material diffuseColor='1 0.5 0.5'/>
-                  </appearance>
-                  <indexedFaceSet solid="false" coordIndex='0 1 2'>
-                    <coordinate point='0 0 0 0 0.1 0 0.075 0.05 0'/>
-                  </indexedFaceSet>
-                </shape>
-                <shape>
-                  <appearance>
-                    <material diffuseColor='1 0.5 0.5'/>
-                  </appearance>
-                  <indexedFaceSet solid="false" coordIndex='0 1 2'>
-                    <coordinate point='0 0 -0.025 0 0.1 -0.025 0.075 0.05 -0.025'/>
-                  </indexedFaceSet>
-                </shape>
-                <shape>
-                  <appearance>
-                    <material diffuseColor='1 0.5 0.5'/>
-                  </appearance>
-                  <indexedFaceSet solid="false" coordIndex='0 1 2 3'>
-                    <coordinate point='0 0 0 0 0 -0.025 0.075 0.05 -0.025 0.075 0.05 0'/>
-                  </indexedFaceSet>
-                </shape>
-                <shape>
-                  <appearance>
-                    <material diffuseColor='1 0.5 0.5'/>
-                  </appearance>
-                  <indexedFaceSet solid="false" coordIndex='0 1 2 3'>
-                    <coordinate point='0 0.1 0 0 0.1 -0.025 0.075 0.05 -0.025 0.075 0.05 0'/>
-                  </indexedFaceSet>
-                </shape>
-              </transform>
-            </group>
-          </transform>
-          <transform translation="0,0,0" rotation='0 1 0 3.1459'>
-            <group USE="Arrow"/>
-          </transform>
+              <shape>
+                <appearance>
+                  <material diffuseColor='1 0.5 0.5'/>
+                </appearance>
+                <indexedFaceSet solid="false" coordIndex='0 1 2'>
+                  <coordinate point='0 0 -0.025 0 0.1 -0.025 0.075 0.05 -0.025'/>
+                </indexedFaceSet>
+              </shape>
+              <shape>
+                <appearance>
+                  <material diffuseColor='1 0.5 0.5'/>
+                </appearance>
+                <indexedFaceSet solid="false" coordIndex='0 1 2 3'>
+                  <coordinate point='0 0 0 0 0 -0.025 0.075 0.05 -0.025 0.075 0.05 0'/>
+                </indexedFaceSet>
+              </shape>
+              <shape>
+                <appearance>
+                  <material diffuseColor='1 0.5 0.5'/>
+                </appearance>
+                <indexedFaceSet solid="false" coordIndex='0 1 2 3'>
+                  <coordinate point='0 0.1 0 0 0.1 -0.025 0.075 0.05 -0.025 0.075 0.05 0'/>
+                </indexedFaceSet>
+              </shape>
+            </transform>
+          </group>
+        </transform>
+        <transform translation="0,0,0" rotation='0 1 0 3.1459'>
+          <group USE="Arrow"/>
         </transform>
       </group>
     </transform> 
