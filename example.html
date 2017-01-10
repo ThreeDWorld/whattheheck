@@ -24,7 +24,8 @@
             <Inline url="prop1.02v.x3d" nameSpaceName="MAIN" mapDEFToID="true"></Inline>
         </Transform>
 	<transform translation='-6.677399282110726 0.037177534152416314 1.4168100442221645'>
-        <transform translation='0 0.5 0'>
+        <group DEF='pinetree'>
+		<transform translation='0 0.5 0'>
 		  <shape> 
 			 <appearance> 
 			   <material diffuseColor='0 0 1'></material> 
@@ -40,7 +41,11 @@
 			 <cylinder radius='0.02' height='0.1'></cylinder> 
 		  </shape>
 	    </transform>
+		</group>
 		</transform>
+	    <transform USE='pinetree' translation='0 0 0'/>
+        
+	 
                
     </scene>
 </x3d>
