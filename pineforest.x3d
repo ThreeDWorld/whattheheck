@@ -4,8 +4,8 @@
     <head>
 	<meta name="filename" content="pineforest.x3d" />
     </head>
-    <!-- <Scene>
-	-- 1st row of pine trees 
+    <Scene>
+	<!-- 1st row of pine trees -->
 	<transform translation='-4.12336001604294 0.8543943306961951 -4.288332484106965'>
             <transform DEF='pinetree'>
 		<transform translation='0 0.55 0'>
@@ -62,7 +62,7 @@
         <transform translation='-6.873136198143483 0.3766676621029368 -3.2833943689035925'>
 		<transform USE='pinetree'></transform>
 	</transform>
-	-- 2nd row of pine trees --
+	<!-- 2nd row of pine trees -->
         <transform translation='-4.1151248826789395 0.7861427783868118 -4.136152288661117'>
 		<transform USE='pinetree'></transform>
 	</transform>
@@ -81,5 +81,5 @@
         <transform translation='-5.822352859896673 0.5109017728292331 -3.558192997924661'>
 		<transform USE='pinetree'></transform>
 	</transform>
-    </Scene> -->
+    </Scene>
 </X3D>
