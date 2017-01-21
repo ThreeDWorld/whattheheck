@@ -105,6 +105,19 @@
         <transform translation='-6.854424858188079 0.3183105828857222 -3.077131853470985'>
 		<transform USE='pinetree'></transform>
 	</transform>
+	<!-- 3rd row of pine trees -->
+        <transform translation='-4.108727852096717 0.7069836793499131 -3.90883060695111'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-4.889207862997113 0.6188172006233312 -3.5933435678504297'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-5.84148763985667 0.42200132631859155 -3.3090284692744754'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-6.644485467942747 0.27438463735998964 -2.9520883613271853'>
+		<transform USE='pinetree'></transform>
+	</transform>
 
     </Scene>
 </X3D>
