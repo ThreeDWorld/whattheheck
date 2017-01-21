@@ -189,5 +189,11 @@
         <transform translation='-3.872165072635507 0.5202028701839287 -3.5697029612083186'>
 		<transform USE='pinetree'></transform>
 	</transform>
+        <transform translation='-4.082855008195656 0.4671127433017954 -3.439506609590373'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-6.1973563292278095 0.16963699306882152 -2.6258890645403525'>
+		<transform USE='pinetree'></transform>
+	</transform>
     </Scene>
 </X3D>
