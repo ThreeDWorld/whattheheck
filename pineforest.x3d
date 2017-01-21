@@ -133,6 +133,15 @@
         <transform translation='-5.84148763985667 0.42200132631859155 -3.3090284692744754'>
 		<transform USE='pinetree'></transform>
 	</transform>
+        <transform translation='-6.04223709687819 0.38509715407894 -3.21979344228766'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-6.24298655389971 0.34819298183929 -3.13055841530084'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-6.44373601092123 0.31128880959964 -3.04132338831402'>
+		<transform USE='pinetree'></transform>
+	</transform>
         <transform translation='-6.644485467942747 0.27438463735998964 -2.9520883613271853'>
 		<transform USE='pinetree'></transform>
 	</transform>
