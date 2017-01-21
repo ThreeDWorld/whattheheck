@@ -198,7 +198,34 @@
         <transform translation='-4.082855008195656 0.4671127433017954 -3.439506609590373'>
 		<transform USE='pinetree'></transform>
 	</transform>
-        <transform translation='-6.1973563292278095 0.16963699306882152 -2.6258890645403525'>
+        <transform translation='-4.29430514029888 0.4373651682785 -3.35814485508537'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-4.5057552724021 0.4076175932552 -3.27678310058037'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-4.71720540450532 0.3778700182319 -3.19542134607537'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-4.92865553660854 0.3481224432086 -3.11405959157037'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-5.14010566871176 0.3183748681853 -3.03269783706537'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-5.35155580081498 0.288627293162 -2.95133608256037'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-5.5630059329182 0.2588797181387 -2.86997432805537'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-5.77445606502142 0.2291321431154 -2.78861257355037'>
+		<transform USE='pinetree'></transform>
+	</transform>
+        <transform translation='-5.98590619712464 0.1993845680921 -2.70725081904537'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-6.1973563292278095 0.16963699306882152 -2.6258890645403525'>
 		<transform USE='pinetree'></transform>
 	</transform>
     </Scene>
