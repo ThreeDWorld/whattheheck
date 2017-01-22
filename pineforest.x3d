@@ -336,12 +336,6 @@
 	<transform translation='-4.08768600074871 0.18466494834274 -2.72733729291021'>
 		<transform USE='pinetree'></transform>
 	</transform>
-<!--	<transform translation='-4.30157236943649 0.16825915508715 -2.64933972358671'>
-		<transform USE='pinetree'></transform>
-	</transform>
-	<transform translation='-4.51545873812427 0.15185336183156 -2.57134215426321'>
-		<transform USE='pinetree'></transform>
-	</transform> -->
 	<transform translation='-4.72934510681205 0.13544756857597 -2.49334458493971'>
 		<transform USE='pinetree'></transform>
 	</transform>
@@ -357,6 +351,20 @@
 	<transform translation='-5.584890581563181 0.06982439555359621 -2.1813543076456883'>
 		<transform USE='pinetree'></transform>
 	</transform>
+	<!-- 9th row of pine trees -->	
+	<transform translation='-2.7781800620261383 0.22929100834133997 -2.7515128382783978'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-3.5065107799253386 0.11490454401902106 -2.6557818146688374'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-4.715678308990273 0.0996893109388064 -2.2584243558799786'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-5.390068327844449 0.019591182555536157 -2.0377736648943388'>
+		<transform USE='pinetree'></transform>
+	</transform>
+
 
     </Scene>
 </X3D>
