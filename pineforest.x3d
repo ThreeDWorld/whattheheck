@@ -333,7 +333,27 @@
 	<transform translation='-3.8737996320609325 0.2010707415983286 -2.8053348622337078'>
 		<transform USE='pinetree'></transform>
 	</transform>
-	    
+	<transform translation='-4.08768600074871 0.18466494834274 -2.72733729291021'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-4.30157236943649 0.16825915508715 -2.64933972358671'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-4.51545873812427 0.15185336183156 -2.57134215426321'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-4.72934510681205 0.13544756857597 -2.49334458493971'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-4.94323147549983 0.11904177532038 -2.41534701561621'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-5.15711784418761 0.10263598206479 -2.33734944629271'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-5.37100421287539 0.0862301888092 -2.25935187696921'>
+		<transform USE='pinetree'></transform>
+	</transform>
 	<transform translation='-5.584890581563181 0.06982439555359621 -2.1813543076456883'>
 		<transform USE='pinetree'></transform>
 	</transform>
