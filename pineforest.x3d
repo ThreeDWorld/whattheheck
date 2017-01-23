@@ -402,6 +402,25 @@
 	<transform translation='-2.8719422677873734 0.022965105886322945 -2.2552818917723436'>
 		<transform USE='pinetree'></transform>
 	</transform>
+	<!-- Other pines -->
+	<transform translation='2.750711278287819 0.7182702966047039 -0.6583489415463673'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.6355466938272811 0.35968935363625576 2.224445775996405'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.4744762653300953 -0.15746808857954164 4.5830226962681895'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.4083187987255434 -0.39188492610963266 5.615987966477709'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.4888689080746196 -0.7845345360617557 7.3410070846431275'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-0.5982901519330879 -0.5246886982785695 6.122083848864667'>
+		<transform USE='pinetree'></transform>
+	</transform>
 	
     </Scene>
 </X3D>
