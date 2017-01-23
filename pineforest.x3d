@@ -355,10 +355,22 @@
 	<transform translation='-2.7781800620261383 0.22929100834133997 -2.7515128382783978'>
 		<transform USE='pinetree'></transform>
 	</transform>
+	<transform translation='-3.02095696799254 0.19116218690057 -2.71960249707521'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-3.26373387395894 0.1530333654598 -2.68769215587202'>
+		<transform USE='pinetree'></transform>
+	</transform>
 	<transform translation='-3.5065107799253386 0.11490454401902106 -2.6557818146688374'>
 		<transform USE='pinetree'></transform>
 	</transform>
 	<transform translation='-4.715678308990273 0.0996893109388064 -2.2584243558799786'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-4.94047498194166 0.07298993481105 -2.18487412555143'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='-5.16527165489305 0.04629055868329 -2.11132389522288'>
 		<transform USE='pinetree'></transform>
 	</transform>
 	<transform translation='-5.390068327844449 0.019591182555536157 -2.0377736648943388'>
