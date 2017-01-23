@@ -403,16 +403,17 @@
 		<transform USE='pinetree'></transform>
 	</transform>
 	<!-- Other pines -->
+	<!-- Line 1 -->
 	<transform translation='2.750711278287819 0.7182702966047039 -0.6583489415463673'>
 		<transform USE='pinetree'></transform>
 	</transform>
 	<transform translation='2.19312898605755 0.53897982512048 0.78304841722502'>
 		<transform USE='pinetree'></transform>
 	</transform>
-	    
 	<transform translation='1.6355466938272811 0.35968935363625576 2.224445775996405'>
 		<transform USE='pinetree'></transform>
 	</transform>
+	<!-- Line 2 -->
 	<transform translation='1.59527908670299 0.23039999308231 2.81409000606436'>
 		<transform USE='pinetree'></transform>
 	</transform>
@@ -423,14 +424,11 @@
 	<transform translation='1.4744762653300953 -0.15746808857954164 4.5830226962681895'>
 		<transform USE='pinetree'></transform>
 	</transform>
-	<transform translation='1.5147438724544 -0.27467650734459 5.09950533137295'>
-		<transform USE='pinetree'></transform>
-	</transform>
+	<!-- Line 3 -->
 	<transform translation='1.4083187987255434 -0.39188492610963266 5.615987966477709'>
 		<transform USE='pinetree'></transform>
 	</transform>
-	    
-	    
+	<!-- Line 4 -->   
 	<transform translation='1.4888689080746196 -0.7845345360617557 7.3410070846431275'>
 		<transform USE='pinetree'></transform>
 	</transform>
