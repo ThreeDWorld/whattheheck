@@ -425,6 +425,21 @@
 	<transform translation='2.19312898605755 0.53897982512048 0.78304841722502'>
 		<transform USE='pinetree'></transform>
 	</transform>
+	<transform translation='2.10019860401917 0.50909807987311 1.02328131035359'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='2.00726822198079 0.47921633462574 1.26351420348216'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.91433783994241 0.44933458937837 1.50374709661073'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.82140745790403 0.419452844131 1.7439799897393'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.72847707586565 0.38957109888363 1.98421288286787'>
+		<transform USE='pinetree'></transform>
+	</transform>
 	<transform translation='1.6355466938272811 0.35968935363625576 2.224445775996405'>
 		<transform USE='pinetree'></transform>
 	</transform>
