@@ -472,6 +472,21 @@
 	<transform translation='1.4083187987255434 -0.39188492610963266 5.615987966477709'>
 		<transform USE='pinetree'></transform>
 	</transform>
+	<transform translation='1.42174381695039 -0.45732652776832 5.90349115283861'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.43516883517524 -0.52276812942701 6.19099433919951'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.44859385340009 -0.5882097310857 6.47849752556041'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.46201887162494 -0.65365133274439 6.76600071192131'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.47544388984979 -0.71909293440308 7.05350389828221'>
+		<transform USE='pinetree'></transform>
+	</transform>
 	<!-- Line 4 -->   
 	<transform translation='1.4888689080746196 -0.7845345360617557 7.3410070846431275'>
 		<transform USE='pinetree'></transform>
