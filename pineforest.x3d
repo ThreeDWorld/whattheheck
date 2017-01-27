@@ -456,11 +456,15 @@
 	<transform translation='1.55501147957869 0.10111063252836 3.4037342361323'>
 		<transform USE='pinetree'></transform>
 	</transform>
-	    
+	<transform translation='1.53487767601655 0.03646595225138 3.69855635116628'>
+		<transform USE='pinetree'></transform>
+	</transform>
 	<transform translation='1.5147438724544 -0.02817872802559 3.99337846620025'>
 		<transform USE='pinetree'></transform>
 	</transform>
-	    
+	<transform translation='1.49461006889225 -0.09282340830257 4.28820058123422'>
+		<transform USE='pinetree'></transform>
+	</transform>
 	<transform translation='1.4744762653300953 -0.15746808857954164 4.5830226962681895'>
 		<transform USE='pinetree'></transform>
 	</transform>
