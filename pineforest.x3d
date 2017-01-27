@@ -491,7 +491,19 @@
 	<transform translation='1.4888689080746196 -0.7845345360617557 7.3410070846431275'>
 		<transform USE='pinetree'></transform>
 	</transform>
+	<transform translation='1.24792905893339 -0.73394771039015 7.198953463203'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='1.00698920979216 -0.68336088471854 7.05689984176287'>
+		<transform USE='pinetree'></transform>
+	</transform>
 	<transform translation='0.76604936065093 -0.63277405904694 6.91484622032274'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='0.5251095115097 -0.58218723337533 6.77279259888261'>
+		<transform USE='pinetree'></transform>
+	</transform>
+	<transform translation='0.28416966236847 -0.53160040770372 6.63073897744248'>
 		<transform USE='pinetree'></transform>
 	</transform>
 	<transform translation='0.043229813227244396 -0.4810135820321173 6.488685356002344'>
